@@ -17,7 +17,7 @@ function sendMessage(token, toPersonEmail, roomId, markdown) {
 
 var IssueNotify, baseMessage, systemUnitName;
 
-// ADD YOU BOT TOKEN HERE
+// ADD YOUR BOT TOKEN HERE
 const yourBotToken = '+++CHANGE TO BOT TOKEN+++';
 
 //ADD YOUR ROOM ID HERE
