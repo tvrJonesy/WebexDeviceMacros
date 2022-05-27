@@ -22,7 +22,7 @@ The macro requires a number of things:
 	 
 4.	Edit the macro script and add the BOT token and RoomId at line 21 and 24
 
-// ADD YOU BOT TOKEN HERE
+// ADD YOUR BOT TOKEN HERE
 const yourBotToken = '+++CHANGE TO BOT TOKEN+++’;
 
 //ADD YOUR ROOM ID HERE
