@@ -25,7 +25,7 @@ The macro requires a number of things:
 // ADD YOUR BOT TOKEN HERE
 const yourBotToken = '+++CHANGE TO BOT TOKEN+++’;
 
-//ADD YOUR ROOM ID HERE
+// ADD YOUR ROOM ID HERE
 const supportRoomID = '+++CHANGE TO ROOM ID+++'
 
 5.	Save script
@@ -37,6 +37,6 @@ const supportRoomID = '+++CHANGE TO ROOM ID+++'
   e.	Enable the Marco via the slider  
                 
 The Macro should now be installed with a new support button on the panel.
-
-![supportbot-screenshiot0](https://user-images.githubusercontent.com/105777228/170674861-de48acdc-a347-4412-a8a3-7af0de1424bf.png)
-![supportbot-screenshot1](https://user-images.githubusercontent.com/105777228/170674883-3fe09c51-a25b-4eae-9911-835e57d33b6d.png)
+![supportbot-screenshiot0_LI](https://user-images.githubusercontent.com/105777228/170676025-481447fa-3215-41e8-811b-9f23d42b80c0.jpg)
+![supportbot-screenshot1_LI](https://user-images.githubusercontent.com/105777228/170676058-16488248-daae-4fd6-994a-2e42314b628e.jpg)
+![supportBot-msg](https://user-images.githubusercontent.com/105777228/170676825-ba599700-ed10-4fad-a004-c45b3c9d9226.JPG)
