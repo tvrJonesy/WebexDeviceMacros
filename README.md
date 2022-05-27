@@ -38,3 +38,5 @@ const supportRoomID = '+++CHANGE TO ROOM ID+++'
                 
 The Macro should now be installed with a new support button on the panel.
 
+![supportbot-screenshiot0](https://user-images.githubusercontent.com/105777228/170674861-de48acdc-a347-4412-a8a3-7af0de1424bf.png)
+![supportbot-screenshot1](https://user-images.githubusercontent.com/105777228/170674883-3fe09c51-a25b-4eae-9911-835e57d33b6d.png)
