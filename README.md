@@ -16,7 +16,9 @@ The macro requires a number of things:
 3.	Find the Webex space roomID
     a.	Use the Webex api web page to find the roomID the bot you created belongs to:
     b.	https://developer.webex.com/docs/api/v1/rooms/list-rooms
+    
       i.	Toggle off the “Use personal access token” switch and put the BOT token you saved in the “bearer” field
+    
       ii.	This lists the rooms the bot is a member of. From the “Results” section you need to get the “id” of the room you created with the bot
 	 
 4.	Edit the macro script and add the BOT token and RoomId at line 21 and 24
