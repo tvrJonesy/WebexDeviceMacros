@@ -31,10 +31,15 @@ const supportRoomID = '+++CHANGE TO ROOM ID+++'
 
 5.	Save script
 6.	Install macro on endpoint
+
   a.	Login on to device web configuration page (either via control hub or local access)
+
   b.	Select “Marco Editor”
+  
   c.	Select “Import From File” and choose the macro file from your laptop
+  
   d.	Click “Save to Video System” Icon  
+  
   e.	Enable the Marco via the slider  
                 
 The Macro should now be installed with a new support button on the panel.
