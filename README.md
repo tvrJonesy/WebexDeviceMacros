@@ -1,6 +1,6 @@
 # SupportBot Macro
 # This Macro adds a "Request Support" button to the control panel of Webex devices
-# Once pressed the user is presented with 4 support request options of which they can select from
+# Once pressed the user is presented with 4 support request options which they can select from
 # The script then sends a webex message to a bot which posts the support request message in a room providing support message selected and device name
 # 
 
